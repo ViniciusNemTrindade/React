@@ -1,0 +1,20 @@
+{
+  "name": "7o45l",
+  "version": "0.0.0",
+  "description": null,
+  "keywords": [],
+  "main": "/index.html",
+  "dependencies": {
+    "react": "17.0.1",
+    "react-dom": "17.0.1"
+  },
+  "devDependencies": {
+    "react-scripts": "1.0.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
